@@ -1,0 +1,3 @@
+Alex;14;Man
+Ivan;14;Man
+Petr;20;Man
